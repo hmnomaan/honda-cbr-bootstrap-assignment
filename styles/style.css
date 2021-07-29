@@ -1,5 +1,9 @@
     /* common */
     
+    html {
+        overflow-x: hidden;
+    }
+    
     span {
         color: #E76F51;
     }
